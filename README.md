@@ -29,5 +29,5 @@ Todo o pipeline de limpeza e cruzamento foi automatizado em Python (`projeto_ele
    * **Planejamento Regional Segmentado:** Diferenciar estratégias para polos industriais/portuários (alto PIB per capita, renda domiciliar moderada) e centros urbanos de serviços/tecnologia (alta renda domiciliar), evitando tratar municípios economicamente distintos com diagnósticos homogêneos.
 
 ## 5. Dashboard Interativo (Looker Studio)
-* **[Acessar Dashboard Interativo no Looker Studio](https://datastudio.google.com/s/uCnesT98pj4)**
+* **[Acessar Dashboard Interativo no Looker Studio](https://datastudio.google.com/s/kt5pTAQm3Ik)**
 * **Recursos do Painel:** Cartões de visão geral com contagem exata dos 295 municípios e médias econômicas, filtro interativo de **Faixa de PIB**, gráfico de barras empilhadas 100% com a proporção partidária por faixa econômica e tabelas detalhadas com indicadores proporcionais.
